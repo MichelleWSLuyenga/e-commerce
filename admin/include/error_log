@@ -1,0 +1,70 @@
+[10-Jun-2019 04:25:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[10-Jun-2019 04:25:16 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[10-Jun-2019 04:25:16 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[10-Jun-2019 04:43:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[10-Jun-2019 04:43:48 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 31
+[10-Jun-2019 04:43:48 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 31
+[10-Jun-2019 04:46:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[18-Jul-2019 11:10:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[18-Jul-2019 11:10:39 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/staffsuser_add_code.php on line 23
+[18-Jul-2019 11:10:39 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/staffsuser_add_code.php on line 23
+[18-Jul-2019 11:11:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[18-Jul-2019 11:11:47 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/staffsuser_add_code.php on line 23
+[18-Jul-2019 11:11:47 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/staffsuser_add_code.php on line 23
+[18-Jul-2019 11:15:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[24-Jul-2019 02:52:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[24-Jul-2019 02:52:51 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[24-Jul-2019 02:52:51 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[24-Jul-2019 02:53:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[24-Jul-2019 02:53:04 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[24-Jul-2019 02:53:04 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[31-Jul-2019 09:30:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[31-Jul-2019 09:30:56 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/staffsuser_add_code.php on line 33
+[31-Jul-2019 09:30:56 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/staffsuser_add_code.php on line 33
+[31-Jul-2019 09:32:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[31-Jul-2019 09:34:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 05:21:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 05:21:43 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 34
+[02-Sep-2019 05:21:43 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 34
+[02-Sep-2019 05:24:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 05:24:27 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 34
+[02-Sep-2019 05:24:27 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 34
+[02-Sep-2019 05:25:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 05:25:04 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 34
+[02-Sep-2019 05:25:04 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 34
+[02-Sep-2019 05:26:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 05:26:50 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 34
+[02-Sep-2019 05:26:50 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 34
+[02-Sep-2019 05:28:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 05:28:14 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 29
+[02-Sep-2019 05:28:14 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 29
+[02-Sep-2019 05:31:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 05:31:29 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 29
+[02-Sep-2019 05:31:29 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 29
+[02-Sep-2019 05:32:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 05:32:06 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 29
+[02-Sep-2019 05:32:06 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadcategory_edit_code.php on line 29
+[02-Sep-2019 05:41:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 05:41:24 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/staffsuser_add_code.php on line 35
+[02-Sep-2019 05:41:24 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/staffsuser_add_code.php on line 35
+[02-Sep-2019 09:28:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 09:28:20 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[02-Sep-2019 09:28:20 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[02-Sep-2019 09:29:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 09:29:13 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[02-Sep-2019 09:29:13 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[04-Sep-2019 12:02:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[04-Sep-2019 12:02:28 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[04-Sep-2019 12:02:28 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[04-Sep-2019 12:03:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[04-Sep-2019 12:03:16 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[04-Sep-2019 12:03:16 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[27-Sep-2019 05:39:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[27-Sep-2019 05:39:34 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[27-Sep-2019 05:39:34 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[27-Sep-2019 05:50:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[27-Sep-2019 05:50:11 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[27-Sep-2019 05:50:11 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[27-Sep-2019 07:03:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[27-Sep-2019 07:03:42 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
+[27-Sep-2019 07:03:42 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/include/uploadlogo_edit_code.php on line 26
