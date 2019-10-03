@@ -1,0 +1,2 @@
+[18-Jul-2019 11:14:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vgreseller/public_html/admin-reseller/logout/index.php:2) in /home/vgreseller/public_html/admin-reseller/logout/index.php on line 5
+[18-Jul-2019 11:14:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vgreseller/public_html/admin-reseller/logout/index.php:2) in /home/vgreseller/public_html/admin-reseller/logout/index.php on line 6

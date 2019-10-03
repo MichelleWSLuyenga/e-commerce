@@ -1,0 +1,16 @@
+[05-Jun-2019 09:26:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[24-Jun-2019 02:29:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[24-Jun-2019 02:29:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[24-Jun-2019 02:29:57 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/orderform/edit.php on line 20
+[24-Jun-2019 02:29:57 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/orderform/edit.php on line 20
+[24-Jun-2019 02:48:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[24-Jun-2019 02:48:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[25-Jun-2019 10:17:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[26-Jun-2019 05:48:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[26-Jun-2019 05:48:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[26-Jun-2019 05:49:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[26-Jun-2019 05:49:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[01-Jul-2019 05:32:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[01-Jul-2019 05:33:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[01-Jul-2019 05:34:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[01-Jul-2019 05:34:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7

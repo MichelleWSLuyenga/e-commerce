@@ -1,0 +1,42 @@
+[18-Jul-2019 11:13:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[18-Jul-2019 11:13:38 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[18-Jul-2019 11:13:38 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[18-Jul-2019 11:13:38 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[18-Jul-2019 11:13:38 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
+[18-Jul-2019 11:13:38 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[18-Jul-2019 11:13:38 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
+[18-Jul-2019 11:15:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[18-Jul-2019 11:15:26 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[18-Jul-2019 11:15:26 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[18-Jul-2019 11:15:26 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[18-Jul-2019 11:15:26 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
+[18-Jul-2019 11:15:26 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[18-Jul-2019 11:15:26 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
+[31-Jul-2019 09:30:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[31-Jul-2019 09:30:57 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[31-Jul-2019 09:30:57 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[31-Jul-2019 09:30:57 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[31-Jul-2019 09:30:57 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
+[31-Jul-2019 09:30:57 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[31-Jul-2019 09:30:57 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
+[31-Jul-2019 09:32:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[31-Jul-2019 09:32:57 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[31-Jul-2019 09:32:57 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[31-Jul-2019 09:32:57 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[31-Jul-2019 09:32:57 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
+[31-Jul-2019 09:32:57 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[31-Jul-2019 09:32:57 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
+[31-Jul-2019 09:34:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[31-Jul-2019 09:34:56 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[31-Jul-2019 09:34:56 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[31-Jul-2019 09:34:56 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[31-Jul-2019 09:34:56 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
+[31-Jul-2019 09:34:56 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[31-Jul-2019 09:34:56 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
+[02-Sep-2019 05:41:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[02-Sep-2019 05:41:25 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[02-Sep-2019 05:41:25 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin-reseller/mail/mail_staffsuser.php on line 5
+[02-Sep-2019 05:41:25 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[02-Sep-2019 05:41:25 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
+[02-Sep-2019 05:41:25 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1471
+[02-Sep-2019 05:41:25 UTC] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/vgreseller/public_html/admin-reseller/mail/class.phpmailer.php on line 1475
