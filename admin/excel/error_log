@@ -1,0 +1,47 @@
+[25-Jun-2019 03:58:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[25-Jun-2019 03:58:21 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 03:58:21 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 03:59:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[25-Jun-2019 03:59:59 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 03:59:59 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 04:00:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[25-Jun-2019 04:00:20 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 04:00:20 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 04:00:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[25-Jun-2019 04:00:56 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 04:00:56 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 04:05:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[25-Jun-2019 04:05:05 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 04:05:05 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 04:27:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[25-Jun-2019 04:27:31 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 04:27:31 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 09:32:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[25-Jun-2019 09:32:54 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[25-Jun-2019 09:32:54 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[26-Jun-2019 07:12:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[26-Jun-2019 07:12:38 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[26-Jun-2019 07:12:38 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[28-Jun-2019 08:12:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[28-Jun-2019 08:12:33 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[28-Jun-2019 08:12:33 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 9
+[28-Jun-2019 08:29:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[28-Jun-2019 08:29:43 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 10
+[28-Jun-2019 08:29:43 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 10
+[28-Jun-2019 08:29:43 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 15
+[28-Jun-2019 08:29:43 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 15
+[28-Jun-2019 08:30:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[28-Jun-2019 08:30:34 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 10
+[28-Jun-2019 08:30:34 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 10
+[28-Jun-2019 08:30:34 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 15
+[28-Jun-2019 08:30:34 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 15
+[01-Jul-2019 02:59:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[01-Jul-2019 02:59:12 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 10
+[01-Jul-2019 02:59:12 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 10
+[01-Jul-2019 02:59:12 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 15
+[01-Jul-2019 02:59:12 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 15
+[01-Jul-2019 05:25:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/vgreseller/public_html/connect.php on line 7
+[01-Jul-2019 05:25:01 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 10
+[01-Jul-2019 05:25:01 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 10
+[01-Jul-2019 05:25:01 UTC] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/vgreseller/public_html/admin/excel/index.php on line 15
+[01-Jul-2019 05:25:01 UTC] PHP Deprecated:  mysql_db_query(): This function is deprecated; use mysql_query() instead in /home/vgreseller/public_html/admin/excel/index.php on line 15
